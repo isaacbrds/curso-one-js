@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - Javascript
+- SASS
 
 
 <h3> :rocket: &nbsp;Tecnologias utilizadas </h3>
@@ -17,7 +18,7 @@
   <img align="center" alt="isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="isaac-Sasss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 </div>
 
 <div style=" margin: 20px;">  
